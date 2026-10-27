@@ -1,0 +1,9 @@
+raw/
+results/
+figures/
+paper_figures/
+external_gwas/
+__pycache__/
+*.h5ad
+*.gz
+*.part
